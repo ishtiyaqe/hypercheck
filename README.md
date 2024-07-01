@@ -2,14 +2,14 @@
 1. Install Python 3.11.12 or  +
 *****
 *****
-2. Open terminal for Hypercheck folder 
+2. Open the terminal for Hypercheck folder 
 *****
 *****
-3. Create Vitrual Enviroment for python by this command:
+3. Create Virtual Environment for python by this command:
 -- python3.11 -m venv env
 *****
 *****
-4. After complete this command load a env file will be created in this directory.Now run thi command to activate env and install all requirement.
+4. After completing this command load an env file will be created in this directory. Now run this command to activate env and install all requirements.
 
 [****For_Windows*****]
 -- env\Scripts\activate
@@ -40,19 +40,21 @@ Then:
 *****
 *****
 9.  -- python manage.py runserver localhost:8000
-By run this   command your admin panel and api django server will start. and you can check it by go  to :
+10.  
+By running this   command your admin panel and API django server will start. and you can check it by going  to :
 http://localhost:8000/admin/
 [***Username***] - nobel
 [***Password***] - 1234
 *****
 *****
-10. -- cd frontend
+11. -- cd frontend
 *****
 *****
-11. -- npm install
+12. -- npm install
 *****
 *****
-12. -- npm run dev
-By run this command your Frontend will start on http://localhost:8080.
+13. -- npm run dev
+14.
+By running this command your Frontend will start on http://localhost:8080.
 *****
 
