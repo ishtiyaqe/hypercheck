@@ -37,6 +37,9 @@ Then:
 *****
 *****
 8.  -- python manage.py migrate
+
+
+    -- python manage.py createsuperuser  (Run this command to create new super admin)
 *****
 *****
 9.  -- python manage.py runserver localhost:8000
